@@ -1,4 +1,5 @@
-# Multi-Disease-PredictionThis project is a Streamlit-based web application for predicting two medical conditions — Diabetes and Heart Disease — using machine learning models trained on publicly available datasets (diabetic.csv and heart.csv).
+#Mutlti-Disease-Prediction
+ Multi-Disease-PredictionThis project is a Streamlit-based web application for predicting two medical conditions — Diabetes and Heart Disease — using machine learning models trained on publicly available datasets (diabetic.csv and heart.csv).
 
 Each prediction module (diabetic.py, heart.py) performs the following steps:
 
